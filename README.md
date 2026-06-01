@@ -17,5 +17,11 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avijit-990&show_icons=true&theme=radical&hide_border=true" alt="avijit-990's GitHub stats" />
+  <!-- Main Stats Card (Cache bypassed) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=avijit-990&show_icons=true&theme=radical&hide_border=true&v=1" alt="avijit-990's GitHub stats" />
+</p>
+
+<p align="center">
+  <!-- Alternative Streak Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avijit-990&theme=radical&hide_border=true" alt="avijit-990's GitHub Streak" />
 </p>
